@@ -1,0 +1,10 @@
+# IDE / sistema operativo
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Dump e file locali di MongoDB
+*.bson
+*.log
+dump/
